@@ -1,0 +1,27 @@
+<html>
+  <head>
+    <title>Jassim Almaghaslah</title>
+  </head>
+  <body bgcolor=white>
+
+    <table border="0" cellpadding="10">
+      <tr>
+        
+        <td>
+          <h1>this is the sample page for this class</h1>
+        </td>
+      </tr>
+    </table>
+
+    <p>This is the home page for Web application. </p>
+    
+    <ul>
+      <li>To a <a href="Manual pages.htm">manual page</a>.
+      <li>To a <a href="hello">servlet</a>.
+      <li>To a <a href="web.xml">web page</a>.
+      <li>To a <a href="build.xml">web page</a>.
+      <li>To a <a href="WRA110_Jassim_Almaghaslah_project1_Draft1.docx"> project1 draft1</a>.
+    </ul>
+
+  </body>
+</html>
